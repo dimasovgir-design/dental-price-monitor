@@ -6959,7 +6959,7 @@
       "site": "newdental.com.ua",
       "brand": "Granum",
       "model": "Granum-109A",
-      "price": 21901,
+      "price": 21950,
       "currency": "грн",
       "status": "ok",
       "url": "https://newdental.com.ua/ua/p1559772090-portativnoe-stomatologicheskoe-kreslo.html",
@@ -6974,10 +6974,6 @@
         {
           "date": "2026-08-31",
           "price": 21950
-        },
-        {
-          "date": "2026-09-01",
-          "price": 21901
         }
       ]
     },
@@ -10368,7 +10364,7 @@
       "site": "bauersmedical.com.ua",
       "brand": "ESAY",
       "model": "A5 (верхня подача)",
-      "price": 355624,
+      "price": 355576,
       "currency": "грн",
       "status": "wait",
       "url": "https://bauersmedical.com.ua/10764-6584-a5-stomatologichna-ustanovka-verkhnya-podacha-instrumentu.html",
@@ -10387,10 +10383,6 @@
         {
           "date": "2026-08-31",
           "price": 355576
-        },
-        {
-          "date": "2026-09-01",
-          "price": 355624
         }
       ]
     },
@@ -10399,7 +10391,7 @@
       "site": "bauersmedical.com.ua",
       "brand": "ESAY",
       "model": "A5 (нижня подача)",
-      "price": 307443,
+      "price": 307402,
       "currency": "грн",
       "status": "wait",
       "url": "https://bauersmedical.com.ua/9926-6581-a5-stomatologichna-ustanovka-esay.html",
@@ -10418,10 +10410,6 @@
         {
           "date": "2026-08-31",
           "price": 307402
-        },
-        {
-          "date": "2026-09-01",
-          "price": 307443
         }
       ]
     },
