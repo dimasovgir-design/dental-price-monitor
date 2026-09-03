@@ -487,6 +487,21 @@
   .changes-note { font-size: 12.5px; color: var(--ink-muted); }
   .changes-hint { margin: 0 22px 18px; font-size: 12px; color: var(--ink-faint); max-width: 70ch; }
 
+  .audit-status { margin: 0 22px 18px; font-size: 12.5px; }
+  .audit-status-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    border-radius: 8px;
+    background: var(--warning-tint);
+    color: var(--warning);
+    margin-bottom: 6px;
+  }
+  .audit-status-item a { color: inherit; font-weight: 600; text-decoration: underline; }
+  .audit-status-empty { color: var(--ink-faint); }
+  .audit-status-error { color: var(--ink-faint); font-style: italic; }
+
   .changes-summary {
     display: flex;
     flex-wrap: wrap;
@@ -719,6 +734,7 @@
       <span class="changes-note" id="requestNote"></span>
     </div>
     <p class="changes-hint">Кнопки відкривають створення GitHub Issue з міткою <code>quick-audit</code> або <code>deep-audit</code> — натисніть "Submit new issue" на сторінці GitHub, щоб запит справді зберігся (сама сторінка нічого не пише в репозиторій, GitHub Pages статичний).</p>
+    <div id="auditRequestStatus" class="audit-status">Перевіряю відкриті запити на GitHub…</div>
     <div id="changesBody"></div>
   </div>
 
@@ -12590,6 +12606,51 @@
   document.getElementById("compMarketModel").addEventListener("change", renderMarketBand);
 
   renderAll();
+
+  // GitHub Pages не має бекенда, тож кнопки "Швидка перевірка"/"Глибокий
+  // аудит" не можуть самі позначити щось на сторінці -- вони лише
+  // відкривають створення GitHub Issue. Щоб користувач бачив підтвердження
+  // прямо тут (а не гадав, чи запит взагалі зберігся), читаємо відкриті
+  // issues з міткою quick-audit/deep-audit через публічний GitHub API
+  // (CORS відкритий для публічних репозиторіїв, авторизація не потрібна).
+  (function () {
+    var REPO = "dimasovgir-design/dental-price-monitor";
+    var LABEL_META = {
+      "quick-audit": { icon: "⚡", label: "Швидка перевірка" },
+      "deep-audit": { icon: "🔍", label: "Глибокий аудит" }
+    };
+    var el = document.getElementById("auditRequestStatus");
+    if (!el) return;
+    Promise.all(
+      Object.keys(LABEL_META).map(function (label) {
+        return fetch("https://api.github.com/repos/" + REPO + "/issues?labels=" + label + "&state=open")
+          .then(function (r) { return r.ok ? r.json() : []; })
+          .catch(function () { return null; });
+      })
+    ).then(function (results) {
+      if (results.some(function (r) { return r === null; })) {
+        el.innerHTML = '<div class="audit-status-error">Не вдалося перевірити відкриті запити на GitHub (немає з\'єднання чи ліміт запитів API) — спробуйте оновити сторінку пізніше.</div>';
+        return;
+      }
+      var items = [];
+      Object.keys(LABEL_META).forEach(function (label, i) {
+        (results[i] || []).forEach(function (issue) {
+          items.push({ label: label, issue: issue });
+        });
+      });
+      if (!items.length) {
+        el.innerHTML = '<div class="audit-status-empty">Відкритих запитів на аудит немає.</div>';
+        return;
+      }
+      el.innerHTML = items.map(function (it) {
+        var meta = LABEL_META[it.label];
+        var created = new Date(it.issue.created_at).toLocaleDateString("uk-UA");
+        return '<div class="audit-status-item">' + meta.icon + ' Відкритий запит: ' + meta.label +
+          ' · <a href="' + it.issue.html_url + '" target="_blank" rel="noopener">#' + it.issue.number + '</a>' +
+          ' · створено ' + created + '</div>';
+      }).join("");
+    });
+  })();
 
   if (window.claude && typeof window.claude.use === "function") {
     window.claude.use("artifact").then(function (cap) {
