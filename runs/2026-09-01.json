@@ -10745,9 +10745,7 @@
     }
   ],
   "queue": [],
-  "refreshRequested": {
-    "requestedAt": "2026-08-27"
-  },
+  "refreshRequested": null,
   "rates": {
     "USD": 44.67,
     "EUR": 52.09
