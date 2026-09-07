@@ -460,47 +460,8 @@
   .compare-head { padding: 20px 22px 4px; }
   .compare-head p { margin: 0 0 4px; font-size: 13px; color: var(--ink-muted); max-width: 70ch; }
 
-  .changes-actions {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    padding: 4px 22px 18px;
-    flex-wrap: wrap;
-  }
-  .changes-actions button,
-  .changes-actions a.audit-link {
-    font-family: "Golos Text", sans-serif;
-    font-weight: 600;
-    font-size: 13.5px;
-    color: var(--accent);
-    background: var(--accent-tint);
-    border: 1px solid transparent;
-    border-radius: 8px;
-    padding: 8px 14px;
-    cursor: pointer;
-    text-decoration: none;
-    display: inline-block;
-  }
-  .changes-actions button:hover,
-  .changes-actions a.audit-link:hover { filter: brightness(1.05); }
-  .changes-actions a.audit-link.btn-secondary { color: var(--ink-muted); background: var(--surface-alt); border-color: var(--border-strong); }
   .changes-note { font-size: 12.5px; color: var(--ink-muted); }
-  .changes-hint { margin: 0 22px 18px; font-size: 12px; color: var(--ink-faint); max-width: 70ch; }
-
-  .audit-status { margin: 0 22px 18px; font-size: 12.5px; }
-  .audit-status-item {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    padding: 8px 12px;
-    border-radius: 8px;
-    background: var(--warning-tint);
-    color: var(--warning);
-    margin-bottom: 6px;
-  }
-  .audit-status-item a { color: inherit; font-weight: 600; text-decoration: underline; }
-  .audit-status-empty { color: var(--ink-faint); }
-  .audit-status-error { color: var(--ink-faint); font-style: italic; }
+  .changes-hint { margin: 4px 22px 18px; font-size: 12px; color: var(--ink-faint); max-width: 70ch; }
 
   .changes-summary {
     display: flex;
@@ -726,14 +687,7 @@
       <h2>Що змінилося з останнього обходу</h2>
       <p>Порівняння останніх двох зрізів ціни для кожної позиції. Нові позиції — ті, що з'явились в базі щойно (є лише один зріз). Зниклими вважаються лише ті позиції, які раніше вже підтверджувались на сайті мінімум двічі, а цього разу не знайшлись — це надійний сигнал, що товар справді прибрали з продажу. Позиції, які бачили на сайті лише один раз і ще жодного разу не підтверджували повторно, у звіті мовчки чекають наступного обходу — оголошувати їх "зниклими" після єдиної спроби було б передчасно (обхід міг просто не дістатись до тієї підкатегорії). Зміни ціни менші за 50 грн не рахуються — це зазвичай дрібне округлення або курсове коливання на стороні дилера, а не реальний перегляд ціни.</p>
     </div>
-    <div class="changes-actions">
-      <a class="audit-link btn-secondary" target="_blank" rel="noopener"
-        href="https://github.com/dimasovgir-design/dental-price-monitor/issues/new?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%82%3A%20%D1%88%D0%B2%D0%B8%D0%B4%D0%BA%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D1%96%D1%80%D0%BA%D0%B0&labels=quick-audit&body=%D0%A1%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BE%20%D0%B7%D1%96%20%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8%20%D1%80%D0%B5%D1%94%D1%81%D1%82%D1%80%D1%83.">Швидка перевірка (відомі позиції)</a>
-      <a class="audit-link" target="_blank" rel="noopener"
-        href="https://github.com/dimasovgir-design/dental-price-monitor/issues/new?title=%D0%97%D0%B0%D0%BF%D0%B8%D1%82%3A%20%D0%B3%D0%BB%D0%B8%D0%B1%D0%BE%D0%BA%D0%B8%D0%B9%20%D0%B0%D1%83%D0%B4%D0%B8%D1%82&labels=deep-audit&body=%D0%A1%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BE%20%D0%B7%D1%96%20%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8%20%D1%80%D0%B5%D1%94%D1%81%D1%82%D1%80%D1%83.">Глибокий аудит (весь каталог)</a>
-    </div>
-    <p class="changes-hint">Створюється запит на перевірку.</p>
-    <div id="auditRequestStatus" class="audit-status">Перевіряю відкриті запити на GitHub…</div>
+    <p class="changes-hint">Щоб запросити перевірку — напишіть про це в чаті Claude Code, наприклад: «запусти швидку перевірку» (відомі позиції) або «запусти глибокий аудит» (весь каталог).</p>
     <div id="changesBody"></div>
   </div>
 
@@ -12594,51 +12548,6 @@
   document.getElementById("compMarketModel").addEventListener("change", renderMarketBand);
 
   renderAll();
-
-  // GitHub Pages не має бекенда, тож кнопки "Швидка перевірка"/"Глибокий
-  // аудит" не можуть самі позначити щось на сторінці -- вони лише
-  // відкривають створення GitHub Issue. Щоб користувач бачив підтвердження
-  // прямо тут (а не гадав, чи запит взагалі зберігся), читаємо відкриті
-  // issues з міткою quick-audit/deep-audit через публічний GitHub API
-  // (CORS відкритий для публічних репозиторіїв, авторизація не потрібна).
-  (function () {
-    var REPO = "dimasovgir-design/dental-price-monitor";
-    var LABEL_META = {
-      "quick-audit": { icon: "⚡", label: "Швидка перевірка" },
-      "deep-audit": { icon: "🔍", label: "Глибокий аудит" }
-    };
-    var el = document.getElementById("auditRequestStatus");
-    if (!el) return;
-    Promise.all(
-      Object.keys(LABEL_META).map(function (label) {
-        return fetch("https://api.github.com/repos/" + REPO + "/issues?labels=" + label + "&state=open")
-          .then(function (r) { return r.ok ? r.json() : []; })
-          .catch(function () { return null; });
-      })
-    ).then(function (results) {
-      if (results.some(function (r) { return r === null; })) {
-        el.innerHTML = '<div class="audit-status-error">Не вдалося перевірити відкриті запити на GitHub (немає з\'єднання чи ліміт запитів API) — спробуйте оновити сторінку пізніше.</div>';
-        return;
-      }
-      var items = [];
-      Object.keys(LABEL_META).forEach(function (label, i) {
-        (results[i] || []).forEach(function (issue) {
-          items.push({ label: label, issue: issue });
-        });
-      });
-      if (!items.length) {
-        el.innerHTML = '<div class="audit-status-empty">Відкритих запитів на аудит немає.</div>';
-        return;
-      }
-      el.innerHTML = items.map(function (it) {
-        var meta = LABEL_META[it.label];
-        var created = new Date(it.issue.created_at).toLocaleDateString("uk-UA");
-        return '<div class="audit-status-item">' + meta.icon + ' Відкритий запит: ' + meta.label +
-          ' · <a href="' + it.issue.html_url + '" target="_blank" rel="noopener">#' + it.issue.number + '</a>' +
-          ' · створено ' + created + '</div>';
-      }).join("");
-    });
-  })();
 
   if (window.claude && typeof window.claude.use === "function") {
     window.claude.use("artifact").then(function (cap) {
