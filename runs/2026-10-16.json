@@ -4399,7 +4399,7 @@
       "url": "https://med-technika.com/stomatologicna-ustanovka-granum-dtk-892",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-25",
@@ -4418,7 +4418,7 @@
       "url": "https://med-technika.com/stomatologicna-ustanovka-granum-ts7830-bravo",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-25",
@@ -4437,7 +4437,7 @@
       "url": "https://med-technika.com/stomatologchna-ustanovka-granum-ts7830e-bravo-z-elektrichnim-keruvannjam",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-25",
@@ -4456,7 +4456,7 @@
       "url": "https://med-technika.com/index.php?route=product/product&path=24_73&product_id=1548",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-25",
@@ -4475,7 +4475,7 @@
       "url": "https://med-technika.com/stomatologicna-ustanovka-granum-ts8830-sii",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-25",
@@ -4494,7 +4494,7 @@
       "url": "https://med-technika.com/stomatologicna-ustanovka-granumts-top300%20",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -4551,7 +4551,7 @@
       "url": "https://med-technika.com/portativna-stomatologicna-ustanovka-granum",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -4570,7 +4570,7 @@
       "url": "https://med-technika.com/portativna-stomatologchna-ustanovka-granum",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -4589,7 +4589,7 @@
       "url": "https://med-technika.com/stomatologicna-ustanovka-granum-ts8830-c",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -4608,7 +4608,7 @@
       "url": "https://med-technika.com/stomatologicna-ustanovka-implant-granum-ts-top-301-implant",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-25",
@@ -4631,7 +4631,7 @@
       "url": "https://med-technika.com/stomatologicna-ustanovka-granum-top308rotary",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-25",
@@ -4654,7 +4654,7 @@
       "url": "https://med-technika.com/stomatologicna-ustanovka-granum-ts8830-sonata",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-25",
@@ -4677,7 +4677,7 @@
       "url": "https://med-technika.com/stomatologchna-ustanovka-granum-ts8830-sonata-z-pdlogovim-gdroblokom-ta-sistemoj-touch-screen",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-25",
@@ -4694,13 +4694,13 @@
       "site": "premier-dental.com.ua",
       "brand": "Sirona",
       "model": "Axano",
-      "price": 2068000,
+      "price": 2040000,
       "currency": "грн",
       "status": "wait",
       "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-axano",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-25",
@@ -4721,6 +4721,10 @@
         {
           "date": "2026-09-30",
           "price": 2068000
+        },
+        {
+          "date": "2026-10-16",
+          "price": 2040000
         }
       ]
     },
@@ -4729,13 +4733,13 @@
       "site": "premier-dental.com.ua",
       "brand": "Sirona",
       "model": "Axano Pure",
-      "price": 1854000,
+      "price": 1836000,
       "currency": "грн",
       "status": "wait",
       "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-axano-pure",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-25",
@@ -4756,6 +4760,10 @@
         {
           "date": "2026-09-30",
           "price": 1854000
+        },
+        {
+          "date": "2026-10-16",
+          "price": 1836000
         }
       ]
     },
@@ -4764,13 +4772,13 @@
       "site": "premier-dental.com.ua",
       "brand": "Sirona",
       "model": "Sinius",
-      "price": 1596500,
+      "price": 1581000,
       "currency": "грн",
       "status": "wait",
       "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-sinius",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-25",
@@ -4791,6 +4799,10 @@
         {
           "date": "2026-09-30",
           "price": 1596500
+        },
+        {
+          "date": "2026-10-16",
+          "price": 1581000
         }
       ]
     },
@@ -4799,13 +4811,13 @@
       "site": "premier-dental.com.ua",
       "brand": "Sirona",
       "model": "Sinius CS",
-      "price": 1493500,
+      "price": 1479000,
       "currency": "грн",
       "status": "ok",
       "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-sinius-cs",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-25",
@@ -4826,6 +4838,10 @@
         {
           "date": "2026-09-30",
           "price": 1493500
+        },
+        {
+          "date": "2026-10-16",
+          "price": 1479000
         }
       ]
     },
@@ -4834,13 +4850,13 @@
       "site": "premier-dental.com.ua",
       "brand": "Sirona",
       "model": "Sinius TS",
-      "price": 1493500,
+      "price": 1479000,
       "currency": "грн",
       "status": "ok",
       "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-sinius-ts",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-25",
@@ -4861,6 +4877,10 @@
         {
           "date": "2026-09-30",
           "price": 1493500
+        },
+        {
+          "date": "2026-10-16",
+          "price": 1479000
         }
       ]
     },
@@ -4869,13 +4889,13 @@
       "site": "premier-dental.com.ua",
       "brand": "Dentsply Sirona",
       "model": "Intego Pro CS (верхня подача)",
-      "price": 875500,
+      "price": 867000,
       "currency": "грн",
       "status": "wait",
       "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-intego-pro-dentsply-sirona",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -4896,6 +4916,10 @@
         {
           "date": "2026-09-30",
           "price": 875500
+        },
+        {
+          "date": "2026-10-16",
+          "price": 867000
         }
       ]
     },
@@ -4904,13 +4928,13 @@
       "site": "premier-dental.com.ua",
       "brand": "Dentsply Sirona",
       "model": "Intego CS (верхня подача)",
-      "price": 618000,
+      "price": 612000,
       "currency": "грн",
       "status": "wait",
       "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-intego-dentsply-sirona",
       "direct": true,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -4927,6 +4951,10 @@
         {
           "date": "2026-09-30",
           "price": 618000
+        },
+        {
+          "date": "2026-10-16",
+          "price": 612000
         }
       ]
     },
@@ -4935,13 +4963,13 @@
       "site": "premier-dental.com.ua",
       "brand": "Sirona",
       "model": "Intego Pro",
-      "price": 875500,
+      "price": 867000,
       "currency": "грн",
       "status": "wait",
       "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-intego-pro-dentsply-sirona",
       "direct": true,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-27",
@@ -4962,6 +4990,10 @@
         {
           "date": "2026-09-30",
           "price": 875500
+        },
+        {
+          "date": "2026-10-16",
+          "price": 867000
         }
       ]
     },
@@ -4970,13 +5002,13 @@
       "site": "premier-dental.com.ua",
       "brand": "Sirona",
       "model": "Intego",
-      "price": 618000,
+      "price": 612000,
       "currency": "грн",
       "status": "wait",
       "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-intego-dentsply-sirona",
       "direct": true,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-27",
@@ -4993,6 +5025,10 @@
         {
           "date": "2026-09-30",
           "price": 618000
+        },
+        {
+          "date": "2026-10-16",
+          "price": 612000
         }
       ]
     },
@@ -5001,13 +5037,13 @@
       "site": "kmm.com.ua",
       "brand": "Diplomat",
       "model": "MODEL ONE 100",
-      "price": 661770,
+      "price": 663061,
       "currency": "грн",
-      "status": "ok",
+      "status": "wait",
       "url": "https://kmm.com.ua/shop/stomatoborud/ustanovki-diplomat/stomatologichna-ustanovka-diplomat-model-one-100/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5020,6 +5056,10 @@
         {
           "date": "2026-09-30",
           "price": 661770
+        },
+        {
+          "date": "2026-10-16",
+          "price": 663061
         }
       ]
     },
@@ -5028,13 +5068,13 @@
       "site": "kmm.com.ua",
       "brand": "Diplomat",
       "model": "MODEL ONE 100 ORTHO",
-      "price": 589950,
+      "price": 591101,
       "currency": "грн",
-      "status": "ok",
+      "status": "wait",
       "url": "https://kmm.com.ua/shop/stomatoborud/ustanovki-diplomat/stomatologichna-ustanovka-diplomat-model-one-100-ortho/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5047,6 +5087,10 @@
         {
           "date": "2026-09-30",
           "price": 589950
+        },
+        {
+          "date": "2026-10-16",
+          "price": 591101
         }
       ]
     },
@@ -5055,13 +5099,13 @@
       "site": "kmm.com.ua",
       "brand": "Diplomat",
       "model": "MODEL ONE 200",
-      "price": 748980,
+      "price": 750441,
       "currency": "грн",
-      "status": "ok",
+      "status": "wait",
       "url": "https://kmm.com.ua/shop/stomatoborud/ustanovki-diplomat/stomatologichna-ustanovka-diplomat-model-one-200/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5074,6 +5118,10 @@
         {
           "date": "2026-09-30",
           "price": 748980
+        },
+        {
+          "date": "2026-10-16",
+          "price": 750441
         }
       ]
     },
@@ -5088,7 +5136,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologichna-ustanovka-aj11-np/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5115,7 +5163,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologichna-ustanovka-aj11-vp/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5142,7 +5190,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologichna-ustanovka-aj12-np/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5169,7 +5217,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologichna-ustanovka-aj12-vp/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5196,7 +5244,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologichna-ustanovka-aj15-np/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5223,7 +5271,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologichna-ustanovka-aj15-vp/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5250,7 +5298,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologichna-ustanovka-aj15-np-stacionarnogo-tipu/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5277,7 +5325,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologichna-ustanovka-aj15-vp-stacionarnogo-tipu/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5300,11 +5348,11 @@
       "model": "AJ15 бокова нижня подача",
       "price": 293150,
       "currency": "грн",
-      "status": "ok",
+      "status": "wait",
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologichna-ustanovka-aj15-bokova-nizhnya-podacha/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5331,7 +5379,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologichna-ustanovka-aj16-np/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5358,7 +5406,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologichna-ustanovka-aj16-vp/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5385,7 +5433,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologichna-ustanovka-aj12-dlya-implantologiv/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5412,7 +5460,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologchna-ustanovka-aj22-dityacha/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5439,7 +5487,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologichna-ustanovka-aj25-np/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5466,7 +5514,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologicheskoe-oborudovanie-ajax/stomatologchna-ustanovka-aj25-vp/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5493,7 +5541,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologichni-ustanovki-appledental/stomatologichna-ustanovka-appledental-a001-np/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5520,7 +5568,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologichni-ustanovki-appledental/stomatologichna-ustanovka-appledental-a001-vp/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5547,7 +5595,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologichni-ustanovki-appledental/stomatologichna-ustanovka-appledental-ap-020-np/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5574,7 +5622,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologichni-ustanovki-appledental/stomatologichna-ustanovka-appledental-ap-020-vp/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5601,7 +5649,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologichni-ustanovki-appledental/stomatologichna-ustanovka-appledental-ap-027-np/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5628,7 +5676,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologichni-ustanovki-appledental/stomatologichna-ustanovka-appledental-ap-027-vp/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5655,7 +5703,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologichni-ustanovki-appledental/stomatologichna-ustanovka-appledental-ap-028-np/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -5682,7 +5730,7 @@
       "url": "https://kmm.com.ua/shop/stomatoborud/stomatologichni-ustanovki-appledental/stomatologichna-ustanovka-appledental-ap-028-vp/",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7297,7 +7345,7 @@
       "url": "https://newdental.com.ua/p1188732756-stomatologicheskaya-ustanovka-siger.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7340,7 +7388,7 @@
       "url": "https://newdental.com.ua/p1585387324-stomatologicheskaya-ustanovka-siger.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7383,7 +7431,7 @@
       "url": "https://newdental.com.ua/p1585906361-stomatologicheskaya-ustanovka-siger.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7426,7 +7474,7 @@
       "url": "https://newdental.com.ua/p1585906312-stomatologicheskaya-ustanovka-siger.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7469,7 +7517,7 @@
       "url": "https://newdental.com.ua/ua/p1585906311-stomatologicheskaya-ustanovka-siger.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7502,13 +7550,13 @@
       "site": "newdental.com.ua",
       "brand": "Anye",
       "model": "AY-A3600",
-      "price": 151192,
+      "price": 152034,
       "currency": "грн",
       "status": "ok",
       "url": "https://newdental.com.ua/p1157912601-stomatologicheskaya-ustanovka-a3600.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7533,6 +7581,10 @@
         {
           "date": "2026-09-15",
           "price": 151192
+        },
+        {
+          "date": "2026-10-16",
+          "price": 152034
         }
       ]
     },
@@ -7547,7 +7599,7 @@
       "url": "https://newdental.com.ua/p1157940588-stomatologicheskaya-ustanovka-a1000.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7584,13 +7636,13 @@
       "site": "newdental.com.ua",
       "brand": "Anye",
       "model": "AY-215C5 (для дитячого прийому)",
-      "price": 396712,
+      "price": 398921,
       "currency": "грн",
       "status": "ok",
       "url": "https://newdental.com.ua/p1559772088-stomatologicheskaya-ustanovka-dlya.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7615,6 +7667,10 @@
         {
           "date": "2026-09-15",
           "price": 396712
+        },
+        {
+          "date": "2026-10-16",
+          "price": 398921
         }
       ]
     },
@@ -7623,13 +7679,13 @@
       "site": "newdental.com.ua",
       "brand": "Anye",
       "model": "AY-215C1",
-      "price": 148583,
+      "price": 149410,
       "currency": "грн",
       "status": "ok",
       "url": "https://newdental.com.ua/p1709385475-stomatologicheskaya-ustanovka-215c1.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7654,6 +7710,10 @@
         {
           "date": "2026-09-15",
           "price": 148583
+        },
+        {
+          "date": "2026-10-16",
+          "price": 149410
         }
       ]
     },
@@ -7662,13 +7722,13 @@
       "site": "newdental.com.ua",
       "brand": "Anye",
       "model": "AY-A4800 (3-х секційна)",
-      "price": 258490,
+      "price": 259929,
       "currency": "грн",
       "status": "ok",
       "url": "https://newdental.com.ua/p1709385471-stomatologicheskaya-ustanovka-a4800.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7693,6 +7753,10 @@
         {
           "date": "2026-09-15",
           "price": 258490
+        },
+        {
+          "date": "2026-10-16",
+          "price": 259929
         }
       ]
     },
@@ -7701,13 +7765,13 @@
       "site": "newdental.com.ua",
       "brand": "Anye",
       "model": "AY-215C2",
-      "price": 160581,
+      "price": 161476,
       "currency": "грн",
       "status": "ok",
       "url": "https://newdental.com.ua/p2745728741-stomatologicheskaya-ustanovka-215c2.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7732,6 +7796,10 @@
         {
           "date": "2026-09-15",
           "price": 160581
+        },
+        {
+          "date": "2026-10-16",
+          "price": 161476
         }
       ]
     },
@@ -7740,13 +7808,13 @@
       "site": "newdental.com.ua",
       "brand": "Anye",
       "model": "AY-215B3",
-      "price": 186850,
+      "price": 187891,
       "currency": "грн",
       "status": "ok",
       "url": "https://newdental.com.ua/p2745728711-stomatologicheskaya-ustanovka-215b3.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7771,6 +7839,10 @@
         {
           "date": "2026-09-15",
           "price": 186850
+        },
+        {
+          "date": "2026-10-16",
+          "price": 187891
         }
       ]
     },
@@ -7779,13 +7851,13 @@
       "site": "newdental.com.ua",
       "brand": "Anye",
       "model": "AY-A6800",
-      "price": 228478,
+      "price": 229749,
       "currency": "грн",
       "status": "ok",
       "url": "https://newdental.com.ua/p2745728710-stomatologicheskaya-ustanovka-a6800.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7810,6 +7882,10 @@
         {
           "date": "2026-09-15",
           "price": 228478
+        },
+        {
+          "date": "2026-10-16",
+          "price": 229749
         }
       ]
     },
@@ -7818,13 +7894,13 @@
       "site": "newdental.com.ua",
       "brand": "Anye",
       "model": "AY-A3000",
-      "price": 156671,
+      "price": 157544,
       "currency": "грн",
       "status": "no",
       "url": "https://newdental.com.ua/p1559659972-stomatologicheskaya-ustanovka-a3000.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7849,6 +7925,10 @@
         {
           "date": "2026-09-15",
           "price": 156671
+        },
+        {
+          "date": "2026-10-16",
+          "price": 157544
         }
       ]
     },
@@ -7857,13 +7937,13 @@
       "site": "newdental.com.ua",
       "brand": "Anye",
       "model": "AY-A2000",
-      "price": 112370,
+      "price": 112995,
       "currency": "грн",
       "status": "no",
       "url": "https://newdental.com.ua/p1559659967-stomatologicheskaya-ustanovka-a2000.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7888,6 +7968,10 @@
         {
           "date": "2026-09-15",
           "price": 112370
+        },
+        {
+          "date": "2026-10-16",
+          "price": 112995
         }
       ]
     },
@@ -7896,13 +7980,13 @@
       "site": "newdental.com.ua",
       "brand": "Anye",
       "model": "AY-215D3 (для дитячого прийому)",
-      "price": 376841,
+      "price": 378939,
       "currency": "грн",
       "status": "no",
       "url": "https://newdental.com.ua/p1559772089-stomatologicheskaya-ustanovka-dlya.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7927,6 +8011,10 @@
         {
           "date": "2026-09-15",
           "price": 376841
+        },
+        {
+          "date": "2026-10-16",
+          "price": 378939
         }
       ]
     },
@@ -7935,13 +8023,13 @@
       "site": "newdental.com.ua",
       "brand": "Anye",
       "model": "AY-A6000",
-      "price": 204841,
+      "price": 205982,
       "currency": "грн",
       "status": "no",
       "url": "https://newdental.com.ua/p1709385473-stomatologicheskaya-ustanovka-a6000.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -7966,6 +8054,10 @@
         {
           "date": "2026-09-15",
           "price": 204841
+        },
+        {
+          "date": "2026-10-16",
+          "price": 205982
         }
       ]
     },
@@ -7980,7 +8072,7 @@
       "url": "https://newdental.com.ua/p1431068320-stomatologicheskaya-ustanovka-granum.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8023,7 +8115,7 @@
       "url": "https://newdental.com.ua/p1559771764-stomatologicheskaya-ustanovka-granum.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8066,7 +8158,7 @@
       "url": "https://newdental.com.ua/p1559771765-stomatologicheskaya-ustanovka-granum.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8108,7 +8200,7 @@
       "url": "https://newdental.com.ua/ua/p1641207058-stomatologicheskaya-ustanovka-implant.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8147,7 +8239,7 @@
       "url": "https://newdental.com.ua/p1683619812-stomatologicheskaya-ustanovka-granum.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8219,13 +8311,13 @@
       "site": "newdental.com.ua",
       "brand": "Granum",
       "model": "Портативна установка",
-      "price": 51629,
+      "price": 51916,
       "currency": "грн",
       "status": "ok",
       "url": "https://newdental.com.ua/ua/p1559771766-portativnaya-stomatologicheskaya-ustanovka.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8242,6 +8334,10 @@
         {
           "date": "2026-09-15",
           "price": 51629
+        },
+        {
+          "date": "2026-10-16",
+          "price": 51916
         }
       ]
     },
@@ -8256,7 +8352,7 @@
       "url": "https://newdental.com.ua/p1692535047-stomatologicheskaya-ustanovka-dentix.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8299,7 +8395,7 @@
       "url": "https://newdental.com.ua/p1692535046-stomatologicheskaya-ustanovka-dentix.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8342,7 +8438,7 @@
       "url": "https://newdental.com.ua/p1709385470-stomatologicheskaya-ustanovka-kiss.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8385,7 +8481,7 @@
       "url": "https://newdental.com.ua/p1709385474-stomatologicheskaya-ustanovka-kiss.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8428,7 +8524,7 @@
       "url": "https://newdental.com.ua/ua/p1157912601-stomatologicheskaya-ustanovka-a3600.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8467,7 +8563,7 @@
       "url": "https://newdental.com.ua/ua/p1559772088-stomatologicheskaya-ustanovka-dlya.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8506,7 +8602,7 @@
       "url": "https://newdental.com.ua/ua/p1709385475-stomatologicheskaya-ustanovka-215c1.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8545,7 +8641,7 @@
       "url": "https://newdental.com.ua/ua/p1709385471-stomatologicheskaya-ustanovka-a4800.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8584,7 +8680,7 @@
       "url": "https://newdental.com.ua/ua/p2745728741-stomatologicheskaya-ustanovka-215c2.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8623,7 +8719,7 @@
       "url": "https://newdental.com.ua/ua/p2745728711-stomatologicheskaya-ustanovka-215b3.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8662,7 +8758,7 @@
       "url": "https://newdental.com.ua/ua/p2745728710-stomatologicheskaya-ustanovka-a6800.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8701,7 +8797,7 @@
       "url": "https://newdental.com.ua/ua/p1559659972-stomatologicheskaya-ustanovka-a3000.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8740,7 +8836,7 @@
       "url": "https://newdental.com.ua/ua/p1559659967-stomatologicheskaya-ustanovka-a2000.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8779,7 +8875,7 @@
       "url": "https://newdental.com.ua/ua/p1559772089-stomatologicheskaya-ustanovka-dlya.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8818,7 +8914,7 @@
       "url": "https://newdental.com.ua/ua/p1709385473-stomatologicheskaya-ustanovka-a6000.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8857,7 +8953,7 @@
       "url": "https://newdental.com.ua/ua/p1683619810-stomatologicheskaya-ustanovka-p21.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8876,7 +8972,7 @@
       "url": "https://newdental.com.ua/ua/p1686874176-stomatologicheskaya-ustanovka-p25.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8895,7 +8991,7 @@
       "url": "https://newdental.com.ua/ua/p1157973379-speu-vstroennym-kompressorom.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8914,7 +9010,7 @@
       "url": "https://newdental.com.ua/ua/p1683366856-stomatologicheskaya-pnevmo-elektricheskaya.html",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -8927,13 +9023,13 @@
       "site": "newdental.com.ua",
       "brand": "Siger",
       "model": "S30 (на передвижной стойке)",
-      "price": 268919,
+      "price": 270416,
       "currency": "грн",
       "status": "ok",
       "url": "https://newdental.com.ua/p1585906311-stomatologicheskaya-ustanovka-siger.html",
       "direct": true,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-27",
@@ -8954,6 +9050,10 @@
         {
           "date": "2026-09-15",
           "price": 268919
+        },
+        {
+          "date": "2026-10-16",
+          "price": 270416
         }
       ]
     },
@@ -8962,13 +9062,13 @@
       "site": "newdental.com.ua",
       "brand": "Granum",
       "model": "TS TOP-301 (Implant)",
-      "price": 313813,
+      "price": 315561,
       "currency": "грн",
       "status": "ok",
       "url": "https://newdental.com.ua/p1641207058-stomatologicheskaya-ustanovka-implant.html",
       "direct": true,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-27",
@@ -8989,6 +9089,10 @@
         {
           "date": "2026-09-15",
           "price": 313813
+        },
+        {
+          "date": "2026-10-16",
+          "price": 315561
         }
       ]
     },
@@ -9003,7 +9107,7 @@
       "url": "https://newdental.com.ua/p2378200516-stomatologicheskaya-ustanovka-axano.html",
       "direct": true,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-27",
@@ -9022,7 +9126,7 @@
       "url": "https://newdental.com.ua/p2378200515-stomatologicheskaya-ustanovka-intego.html",
       "direct": true,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-27",
@@ -9041,7 +9145,7 @@
       "url": "https://newdental.com.ua/ua/p1683619811-ctomatologicheskaya-ustanovka-p19.html",
       "direct": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-31",
@@ -9060,7 +9164,7 @@
       "url": "https://newdental.com.ua/ua/p1683619809-ctomatologicheskaya-ustanovka-p20.html",
       "direct": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-31",
@@ -9079,7 +9183,7 @@
       "url": "https://newdental.com.ua/ua/p1686874174-stomatologicheskaya-ustanovka-p24.html",
       "direct": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-31",
@@ -9098,7 +9202,7 @@
       "url": "https://meddent.com.ua/portativnay-stomatologiceskay-ustanovka-satva-kompakt-portativnay-stomatologiceskay-ustanovka-satva-kompakt-4-70",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9117,7 +9221,7 @@
       "url": "https://meddent.com.ua/portativnay-stomatologiceskay-ustanovka-satva-porta-portativnay-stomatologiceskay-ustanovka-satva-porta-4-63",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9136,7 +9240,7 @@
       "url": "https://meddent.com.ua/portativnay-stomatologiceskay-ustanovka-satva-porta-plus-portativnay-stomatologiceskay-ustanovka-satva-porta-plus-4-64",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9155,7 +9259,7 @@
       "url": "https://meddent.com.ua/portativnay-stomatologiceskay-ustanovka-granum-portativnay-stomatologiceskay-ustanovka-granum-4-68",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9174,7 +9278,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-ay-a1000-ekonomu",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9193,7 +9297,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ay-a1000-verknyy-podaca-instrumentov-stomatologiceskay-ustanovka-ay-a1000-verknyy-podaca-instrumentov-4-4",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9212,7 +9316,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ay-a1000-niznyy-podaca-instrumentov-stomatologiceskay-ustanovka-ay-a1000-niznyy-podaca-instrumentov-4-1",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9231,7 +9335,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ay-a2000-niznyy-podaca-instrumentov-stomatologiceskay-ustanovka-ay-a2000-niznyy-podaca-instrumentov-4-5",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9250,7 +9354,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ay-a3000-verknyy-podaca-instrumentov-stomatologiceskay-ustanovka-ay-a3000-verknyy-podaca-instrumentov-4-6",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9269,7 +9373,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-ay-a3600u",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9288,7 +9392,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ay-a3600-verknyy-podaca-instrumentov-stomatologiceskay-ustanovka-ay-a3600-verknyy-podaca-instrumentov-4-8",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9307,7 +9411,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ay-a3600-niznyy-podaca-instrumentov-stomatologiceskay-ustanovka-ay-a3600-niznyy-podaca-instrumentov-4-7",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9326,7 +9430,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ay-a4800-verknyy-podaca-instrumentov-stomatologiceskay-ustanovka-ay-a4800-verknyy-podaca-instrumentov-4-11",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9345,7 +9449,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ay-a4800-niznyy-podaca-instrumentov-stomatologiceskay-ustanovka-ay-a4800-niznyy-podaca-instrumentov-4-10",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9364,7 +9468,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-ay-a6000u",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9383,7 +9487,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-ay-a6800u",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9402,7 +9506,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-gallant-autonom-stomatologiceskay-ustanovka-gallant-autonom-4-40",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9421,7 +9525,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-gallant-omnipratique-stomatologiceskay-ustanovka-gallant-omnipratique-4-39",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9440,7 +9544,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-gallant-pro-stomatologiceskay-ustanovka-gallant-pro-4-42",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9459,7 +9563,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-gallant-surgical-stomatologiceskay-ustanovka-gallant-surgical-4-38",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9478,7 +9582,7 @@
       "url": "https://meddent.com.ua/stomatolog-cna-ustanovka-granum-dtk-na-6-nstrument-v-granum-dtk",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9497,7 +9601,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-granum-dtk-892u",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9516,7 +9620,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-granum-ts7830-new-na-6-instrumentov1",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9535,7 +9639,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-granum-ts8830-new-na-6-instrumentov1",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9554,7 +9658,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-siger-s30-s-touch-ekranom-new",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9573,7 +9677,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-siger-s30-s-kartom-dlya-hirurgii-s-touch-ekranom1",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9592,7 +9696,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-siger-s60-s-kartom-dlya-hirurgii-s-touch-ekranom1",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9611,7 +9715,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-siger-u100-stomatologiceskay-ustanovka-siger-u100-4-25",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9630,7 +9734,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-siger-u200-stomatologiceskay-ustanovka-siger-u200-4-26",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9649,7 +9753,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-siger-v6000-nizhnyaya-podacha1",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9668,7 +9772,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-x1-cingolu",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9687,7 +9791,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-x3-cingolu",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9706,7 +9810,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-x5-cingolu",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9725,7 +9829,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-dlya-hirurgii-granum-tstop301-implant-na-6-instrumentov1",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9738,13 +9842,13 @@
       "site": "meddent.com.ua",
       "brand": "Anye",
       "model": "AY-215C5, для дитячого прийому",
-      "price": 499998,
+      "price": 474524,
       "currency": "грн",
       "status": "ok",
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ay-215c5-dly-detskogo-priema-stomatologiceskay-ustanovka-ay-215c5-dly-detskogo-priema-4-2",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9753,6 +9857,10 @@
         {
           "date": "2026-09-07",
           "price": 499998
+        },
+        {
+          "date": "2026-10-16",
+          "price": 474524
         }
       ]
     },
@@ -9761,13 +9869,13 @@
       "site": "meddent.com.ua",
       "brand": "Anye",
       "model": "AY-215D3, для дитячого прийому",
-      "price": 487498,
+      "price": 469299,
       "currency": "грн",
       "status": "ok",
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ay-215d3-dly-detskogo-priema-stomatologiceskay-ustanovka-ay-215d3-dly-detskogo-priema-4-3",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9776,6 +9884,10 @@
         {
           "date": "2026-09-07",
           "price": 487498
+        },
+        {
+          "date": "2026-10-16",
+          "price": 469299
         }
       ]
     },
@@ -9790,7 +9902,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-gallant-ambidexter-stomatologiceskay-ustanovka-gallant-ambidexter-4-41",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9809,7 +9921,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-gallant-economic-stomatologiceskay-ustanovka-gallant-economic-4-37",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9828,7 +9940,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-gallant-avtonomnay-pro-stomatologiceskay-ustanovka-gallant-avtonomnay-pro-4-43",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9847,7 +9959,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-siger-s60-stomatologiceskay-ustanovka-siger-s60-4-30",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9866,7 +9978,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ss-kiss-modelu-1-verknyy-podaca-stomatologiceskay-ustanovka-ss-kiss-modelu-1-verknyy-podaca-4-54",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9885,7 +9997,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ss-kiss-modelu-1-niznyy-podaca-stomatologiceskay-ustanovka-ss-kiss-modelu-1-niznyy-podaca-4-55",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9904,7 +10016,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ss-kiss-modelu-4-stomatologiceskay-ustanovka-ss-kiss-modelu-4-4-56",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9923,7 +10035,7 @@
       "url": "https://meddent.com.ua/ustanovka-stomatologicheskaya-eko-50-b-ekodent-xu",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9942,7 +10054,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-ay-215c1-anye-ua",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9961,7 +10073,7 @@
       "url": "https://meddent.com.ua/stomatologicheskaya-ustanovka-chiromega-654-duet1",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9980,7 +10092,7 @@
       "url": "https://meddent.com.ua/blok-vraca-s-niznei-podacei-slangov-gallant-cart-5-blok-vraca-s-niznei-podacei-slangov-gallant-cart-5-4-71",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -9999,7 +10111,7 @@
       "url": "https://meddent.com.ua/blok-vraca-s-niznei-podacei-slangov-gallant-cart-5-w-h-blok-vraca-s-niznei-podacei-slangov-gallant-cart-5-w-h-4-61",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -10018,7 +10130,7 @@
       "url": "https://meddent.com.ua/blok-lkarya-siger-s30-cart-na-peresuvnj-stjc1",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -10037,7 +10149,7 @@
       "url": "https://meddent.com.ua/blok-lkarya-siger-u100-cart-na-peresuvnj-stjc11",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -10056,7 +10168,7 @@
       "url": "https://meddent.com.ua/mobilnyj-blok-eko-kart-ekodent-xu",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -10075,7 +10187,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ay-215c5-dly-detskogo-priema-stomatologiceskay-ustanovka-ay-215c5-dly-detskogo-priema-4-2",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -10102,7 +10214,7 @@
       "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ay-215d3-dly-detskogo-priema-stomatologiceskay-ustanovka-ay-215d3-dly-detskogo-priema-4-3",
       "direct": true,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-10-16T13:04:04Z",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-26",
@@ -10129,7 +10241,7 @@
       "url": "https://meddent.com.ua/portativnaya-stomatologicheskaya-ustanovka-so-slyunootsosom-ezhektornogo-tipa1",
       "direct": true,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-27",
@@ -10148,7 +10260,7 @@
       "url": "https://meddent.com.ua/portativnay-turbinnay-stomatologiceskay-ustanovka-portativnay-turbinnay-stomatologiceskay-ustanovka-4-60",
       "direct": true,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-27",
@@ -10167,7 +10279,7 @@
       "url": "https://meddent.com.ua/speu-1-bez-vstroennogo-kompressora-s-elektriceskim-slynootsosom-speu-1-bez-vstroennogo-kompressora-s-elektriceskim-slynootsosom-4-65",
       "direct": true,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-27",
@@ -10186,7 +10298,7 @@
       "url": "https://meddent.com.ua/speu-1-bez-vstroennogo-kompressora-so-slynootsosom-ezektornogo-tipa-speu-1-bez-vstroennogo-kompressora-so-slynootsosom-ezektornogo-4-66",
       "direct": true,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-27",
@@ -10205,7 +10317,7 @@
       "url": "https://meddent.com.ua/speu-1k-so-vstroennym-kompressorom-s-elektriceskim-slynootsosom-speu-1k-so-vstroennym-kompressorom-s-elektriceskim-slynootsosom-4-67",
       "direct": true,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-27",
@@ -10224,7 +10336,7 @@
       "url": "https://meddent.com.ua/stomatolog-cna-ustanovka-granum-dtk-na-6-nstrument-v-granum-dtk",
       "direct": true,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-16T13:24:28Z",
       "priceHistory": [
         {
           "date": "2026-08-27",
@@ -12494,6 +12606,25 @@
         {
           "date": "2026-10-16",
           "price": 3578.98
+        }
+      ]
+    },
+    {
+      "company": "New Dental",
+      "site": "newdental.com.ua",
+      "brand": "DEASIN",
+      "model": "Портативна установка зі слиновідсмоктувачем",
+      "price": 5900,
+      "currency": "грн",
+      "status": "ok",
+      "url": "https://newdental.com.ua/ua/p1894878531-portativnaya-ustanovka-slyunootsosom.html",
+      "direct": true,
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16",
+      "priceHistory": [
+        {
+          "date": "2026-10-16",
+          "price": 5900
         }
       ]
     }
