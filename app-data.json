@@ -12634,5 +12634,315 @@
   "rates": {
     "USD": 44.67,
     "EUR": 52.09
-  }
+  },
+  "latestPriceChanges": [
+    {
+      "site": "premier-dental.com.ua",
+      "company": "Premier Dental",
+      "brand": "Sirona",
+      "model": "Axano",
+      "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-axano",
+      "previousPrice": 2068000,
+      "price": 2040000,
+      "previousDate": "2026-09-30",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "premier-dental.com.ua",
+      "company": "Premier Dental",
+      "brand": "Sirona",
+      "model": "Axano Pure",
+      "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-axano-pure",
+      "previousPrice": 1854000,
+      "price": 1836000,
+      "previousDate": "2026-09-30",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "premier-dental.com.ua",
+      "company": "Premier Dental",
+      "brand": "Sirona",
+      "model": "Sinius",
+      "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-sinius",
+      "previousPrice": 1596500,
+      "price": 1581000,
+      "previousDate": "2026-09-30",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "premier-dental.com.ua",
+      "company": "Premier Dental",
+      "brand": "Sirona",
+      "model": "Sinius CS",
+      "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-sinius-cs",
+      "previousPrice": 1493500,
+      "price": 1479000,
+      "previousDate": "2026-09-30",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "premier-dental.com.ua",
+      "company": "Premier Dental",
+      "brand": "Sirona",
+      "model": "Sinius TS",
+      "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-sinius-ts",
+      "previousPrice": 1493500,
+      "price": 1479000,
+      "previousDate": "2026-09-30",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "premier-dental.com.ua",
+      "company": "Premier Dental",
+      "brand": "Dentsply Sirona",
+      "model": "Intego Pro CS (верхня подача)",
+      "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-intego-pro-dentsply-sirona",
+      "previousPrice": 875500,
+      "price": 867000,
+      "previousDate": "2026-09-30",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "premier-dental.com.ua",
+      "company": "Premier Dental",
+      "brand": "Dentsply Sirona",
+      "model": "Intego CS (верхня подача)",
+      "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-intego-dentsply-sirona",
+      "previousPrice": 618000,
+      "price": 612000,
+      "previousDate": "2026-09-30",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "premier-dental.com.ua",
+      "company": "Premier Dental",
+      "brand": "Sirona",
+      "model": "Intego Pro",
+      "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-intego-pro-dentsply-sirona",
+      "previousPrice": 875500,
+      "price": 867000,
+      "previousDate": "2026-09-30",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "premier-dental.com.ua",
+      "company": "Premier Dental",
+      "brand": "Sirona",
+      "model": "Intego",
+      "url": "https://premier-dental.com.ua/shop/obladnannia/ustanovky-stomatolohichni/ustanovka-stomatolohichna-intego-dentsply-sirona",
+      "previousPrice": 618000,
+      "price": 612000,
+      "previousDate": "2026-09-30",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "kmm.com.ua",
+      "company": "Укр Мед Маркет",
+      "brand": "Diplomat",
+      "model": "MODEL ONE 100",
+      "url": "https://kmm.com.ua/shop/stomatoborud/ustanovki-diplomat/stomatologichna-ustanovka-diplomat-model-one-100/",
+      "previousPrice": 661770,
+      "price": 663061,
+      "previousDate": "2026-09-30",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "kmm.com.ua",
+      "company": "Укр Мед Маркет",
+      "brand": "Diplomat",
+      "model": "MODEL ONE 100 ORTHO",
+      "url": "https://kmm.com.ua/shop/stomatoborud/ustanovki-diplomat/stomatologichna-ustanovka-diplomat-model-one-100-ortho/",
+      "previousPrice": 589950,
+      "price": 591101,
+      "previousDate": "2026-09-30",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "kmm.com.ua",
+      "company": "Укр Мед Маркет",
+      "brand": "Diplomat",
+      "model": "MODEL ONE 200",
+      "url": "https://kmm.com.ua/shop/stomatoborud/ustanovki-diplomat/stomatologichna-ustanovka-diplomat-model-one-200/",
+      "previousPrice": 748980,
+      "price": 750441,
+      "previousDate": "2026-09-30",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "newdental.com.ua",
+      "company": "New Dental",
+      "brand": "Anye",
+      "model": "AY-A3600",
+      "url": "https://newdental.com.ua/p1157912601-stomatologicheskaya-ustanovka-a3600.html",
+      "previousPrice": 151192,
+      "price": 152034,
+      "previousDate": "2026-09-15",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "newdental.com.ua",
+      "company": "New Dental",
+      "brand": "Anye",
+      "model": "AY-215C5 (для дитячого прийому)",
+      "url": "https://newdental.com.ua/p1559772088-stomatologicheskaya-ustanovka-dlya.html",
+      "previousPrice": 396712,
+      "price": 398921,
+      "previousDate": "2026-09-15",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "newdental.com.ua",
+      "company": "New Dental",
+      "brand": "Anye",
+      "model": "AY-215C1",
+      "url": "https://newdental.com.ua/p1709385475-stomatologicheskaya-ustanovka-215c1.html",
+      "previousPrice": 148583,
+      "price": 149410,
+      "previousDate": "2026-09-15",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "newdental.com.ua",
+      "company": "New Dental",
+      "brand": "Anye",
+      "model": "AY-A4800 (3-х секційна)",
+      "url": "https://newdental.com.ua/p1709385471-stomatologicheskaya-ustanovka-a4800.html",
+      "previousPrice": 258490,
+      "price": 259929,
+      "previousDate": "2026-09-15",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "newdental.com.ua",
+      "company": "New Dental",
+      "brand": "Anye",
+      "model": "AY-215C2",
+      "url": "https://newdental.com.ua/p2745728741-stomatologicheskaya-ustanovka-215c2.html",
+      "previousPrice": 160581,
+      "price": 161476,
+      "previousDate": "2026-09-15",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "newdental.com.ua",
+      "company": "New Dental",
+      "brand": "Anye",
+      "model": "AY-215B3",
+      "url": "https://newdental.com.ua/p2745728711-stomatologicheskaya-ustanovka-215b3.html",
+      "previousPrice": 186850,
+      "price": 187891,
+      "previousDate": "2026-09-15",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "newdental.com.ua",
+      "company": "New Dental",
+      "brand": "Anye",
+      "model": "AY-A6800",
+      "url": "https://newdental.com.ua/p2745728710-stomatologicheskaya-ustanovka-a6800.html",
+      "previousPrice": 228478,
+      "price": 229749,
+      "previousDate": "2026-09-15",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "newdental.com.ua",
+      "company": "New Dental",
+      "brand": "Anye",
+      "model": "AY-A3000",
+      "url": "https://newdental.com.ua/p1559659972-stomatologicheskaya-ustanovka-a3000.html",
+      "previousPrice": 156671,
+      "price": 157544,
+      "previousDate": "2026-09-15",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "newdental.com.ua",
+      "company": "New Dental",
+      "brand": "Anye",
+      "model": "AY-A2000",
+      "url": "https://newdental.com.ua/p1559659967-stomatologicheskaya-ustanovka-a2000.html",
+      "previousPrice": 112370,
+      "price": 112995,
+      "previousDate": "2026-09-15",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "newdental.com.ua",
+      "company": "New Dental",
+      "brand": "Anye",
+      "model": "AY-215D3 (для дитячого прийому)",
+      "url": "https://newdental.com.ua/p1559772089-stomatologicheskaya-ustanovka-dlya.html",
+      "previousPrice": 376841,
+      "price": 378939,
+      "previousDate": "2026-09-15",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "newdental.com.ua",
+      "company": "New Dental",
+      "brand": "Anye",
+      "model": "AY-A6000",
+      "url": "https://newdental.com.ua/p1709385473-stomatologicheskaya-ustanovka-a6000.html",
+      "previousPrice": 204841,
+      "price": 205982,
+      "previousDate": "2026-09-15",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "newdental.com.ua",
+      "company": "New Dental",
+      "brand": "Granum",
+      "model": "Портативна установка",
+      "url": "https://newdental.com.ua/ua/p1559771766-portativnaya-stomatologicheskaya-ustanovka.html",
+      "previousPrice": 51629,
+      "price": 51916,
+      "previousDate": "2026-09-15",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "newdental.com.ua",
+      "company": "New Dental",
+      "brand": "Siger",
+      "model": "S30 (на передвижной стойке)",
+      "url": "https://newdental.com.ua/p1585906311-stomatologicheskaya-ustanovka-siger.html",
+      "previousPrice": 268919,
+      "price": 270416,
+      "previousDate": "2026-09-15",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "newdental.com.ua",
+      "company": "New Dental",
+      "brand": "Granum",
+      "model": "TS TOP-301 (Implant)",
+      "url": "https://newdental.com.ua/p1641207058-stomatologicheskaya-ustanovka-implant.html",
+      "previousPrice": 313813,
+      "price": 315561,
+      "previousDate": "2026-09-15",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "meddent.com.ua",
+      "company": "MedDent Шургалін",
+      "brand": "Anye",
+      "model": "AY-215C5, для дитячого прийому",
+      "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ay-215c5-dly-detskogo-priema-stomatologiceskay-ustanovka-ay-215c5-dly-detskogo-priema-4-2",
+      "previousPrice": 499998,
+      "price": 474524,
+      "previousDate": "2026-09-07",
+      "date": "2026-10-16"
+    },
+    {
+      "site": "meddent.com.ua",
+      "company": "MedDent Шургалін",
+      "brand": "Anye",
+      "model": "AY-215D3, для дитячого прийому",
+      "url": "https://meddent.com.ua/stomatologiceskay-ustanovka-ay-215d3-dly-detskogo-priema-stomatologiceskay-ustanovka-ay-215d3-dly-detskogo-priema-4-3",
+      "previousPrice": 487498,
+      "price": 469299,
+      "previousDate": "2026-09-07",
+      "date": "2026-10-16"
+    }
+  ]
 }
