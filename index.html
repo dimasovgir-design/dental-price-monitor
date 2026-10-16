@@ -865,11 +865,19 @@
   // власний перегляд.
   function getRate(currency) {
     var key = currency === "EUR" ? "eurRate" : "usdRate";
+    var fallback = (STORE.rates && STORE.rates[currency]) || (currency === "EUR" ? 52 : 41);
     try {
       var v = localStorage.getItem(key);
-      if (v !== null && v !== "" && !isNaN(parseFloat(v))) return parseFloat(v);
+      if (v !== null && v !== "" && !isNaN(parseFloat(v))) {
+        var storedRate = parseFloat(v);
+        var previousDefault = currency === "EUR" ? 52.09 : 44.67;
+        if (storedRate === previousDefault && fallback !== previousDefault) {
+          setRate(currency, fallback);
+          return fallback;
+        }
+        return storedRate;
+      }
     } catch (e) {}
-    var fallback = (STORE.rates && STORE.rates[currency]) || (currency === "EUR" ? 52 : 41);
     return fallback;
   }
 
@@ -1232,9 +1240,9 @@
       var badgeClass = g.dealerCount > 1 ? "multi" : "single";
       var spreadClass = g.dealerCount <= 1 ? "flat" : (g.spreadPct >= 10 ? "hot" : "");
       var breakdown = g.dealerPrices.map(function (dp) {
-        var native = Math.round(dp.conv).toLocaleString("uk-UA") + " грн";
+        var displayPrice = Math.round(dp.conv).toLocaleString("uk-UA") + " грн";
         return '<span class="dot-status dot-' + dp.status + '" title="' + escapeHtml(STATUS_LABEL[dp.status]) + '"></span>' +
-          escapeHtml(dp.company) + ": " + native + conv;
+          escapeHtml(dp.company) + ": " + displayPrice;
       }).join(" · ");
       var minMaxSuffix = " грн";
       html += "<tr>" +
@@ -1660,6 +1668,8 @@
       if (!isNaN(v) && v > 0) {
         setRate(currency, v);
         renderStats();
+        renderChanges();
+        renderDynamics();
         renderGroupTable();
         renderCompetitors();
         renderMarketBand();
